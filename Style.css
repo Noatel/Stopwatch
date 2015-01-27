@@ -1,0 +1,48 @@
+body{
+ background-image: url("Miauw.jpg");
+    background-size: 100% 300%;
+    background-repeat: no-repeat;
+}
+
+#Style {
+
+    margin: 0px auto;
+    border: 1px solid black;
+    height: 250px;
+    width: 500px;
+    background-color: Grey;
+}
+#Watch {
+    position: fixed;
+    left: 485px;
+    font-family:    Helvetica, "Helvetica Neue", Arial, sans-serif;
+    text-shadow: 2px 2px #A0A0A0;
+    font-size: 250%;
+
+}
+#Stopwatch{
+    font-family:    Helvetica, "Helvetica Neue", Arial, sans-serif;
+    position: fixed;
+    left:605px;
+    top: 150px;
+    font-size: 250%;
+    text-shadow: 2px 2px #A0A0A0 ;
+}
+#Knoppen{
+   border: 1px solid black;
+   position: fixed;
+   left:595px;
+   top: 290px;
+   width: 170px;
+   height: 30px;
+   background-color: Grey;
+   padding: 4px 4px 4px 4px;
+
+}
+#Tijd {
+    font-family:    Helvetica, "Helvetica Neue", Arial, sans-serif;
+    position: fixed;
+    left:605px;
+    top:110px;
+    text-shadow: 2px 2px #A0A0A0 ;
+}
